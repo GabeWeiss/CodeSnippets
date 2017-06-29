@@ -1,6 +1,3 @@
 ** This is not an official Google product **
 
-# iot_core_06_17
-This example (in node.js) covers two devices talking to IoT Core and Pubsub on Google's Cloud Platform. It's intended to be run on two different devices (although could be done all in one if the code is merged into one file) connected to a computer and run from there.
-
-For my devices I ran Arduino Unos with a DS18B20 temperature sensor (https://www.sparkfun.com/products/245) on one, and an RGB LED on the other. ConfigurableFirmata is required for the DS18B20 sensor device.
+This repo holds code examples and samples for my work as a Google Developer Advocate. The code is mirrored in my other repos that represent the individual work. Please see my other repos for the specific examples.
